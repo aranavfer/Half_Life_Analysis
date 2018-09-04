@@ -1,0 +1,50 @@
+------------- Chain Reaction Database ---------------
+Primero Todos los que decaen por beta decay, luego los neutron y bta decay.
+Parent Daughter Grand-Daughter Neutron-Parent Neutron-Daughter ...
+--------------------------------------------------------------
+Number_of_Chains    44    Number_of_Decays    4
+155Pr    155Nd    155Pm    154Pr    154Nd  
+156Nd    156Pm    156Sm    155Nd    155Pm   
+156Pr    156Nd    156Pm    155Pr    155Nd
+157Pr    157Nd    157Pm    156Pr    156Nd
+157Nd    157Pm    157Sm    156Nd    156Pm
+158Pm    158Sm    158Eu    157Pm    157Sm		
+158Sm	 158Eu    158Gd    157Sm    157Eu
+158Nd	 158Pm    158Sm    157Nd    158Pm
+158Pr    158Nd    158Pm    157Pr    157Nd
+159Pm    159Sm    159Eu    158Pm    158Sm		
+159Sm	 159Eu    159Gd    158Sm    158Eu		
+159Eu	 159Gd    159Tb    158Eu    158Gd
+159Nd    159Pm    159Sm    158Nd    158Pm
+159Pr    159Nd    159Pm    158Pr    158Nd
+160Pm    160Sm    160Eu    159Pm    159Sm	
+160Sm	 160Eu    160Gd    159Sm    159Eu
+160Nd	 160Pm    160Sm    159Nd    159Pm	
+161Pm    161Sm    161Eu    160Pm    160Sm		
+161Sm	 161Eu    161Gd    160Sm    160Eu	 	
+161Eu	 161Gd    161Tb    160Eu    160Gd
+161Nd    161Pm    161Sm    160Nd    160Pm
+162Pm    162Sm    162Eu    161Pm    161Sm	
+162Sm	 162Eu    162Gd    161Sm    161Eu		
+162Eu	 162Gd    162Tb    161Eu    161Gd		
+163Sm	 163Eu    163Gd    162Sm    162Eu		
+163Eu	 163Gd    163Tb    162Eu    162Gd		
+163Gd    163Tb    163Dy    162Gd    162Tb
+163Pm    163Sm    163Eu    162Pm    162Sm		
+164Eu	 164Gd    164Tb    163Eu    163Gd	
+164Gd    164Tb    164Dy    163Gd    163Tb			
+164Sm	 164Eu    164Gd    163Sm    163Eu
+164Pm    164Sm    164Eu    163Pm    163Sm	
+165Eu	 165Gd    165Tb    164Eu    164Gd		
+165Gd    165Tb    165Dy    164Gd    164Tb
+165Sm    165Eu    165Gd    164Sm    164Eu
+166Sm	 166Eu    166Gd    165Sm    165Eu
+166Eu	 166Gd    166Tb    165Eu    165Gd		
+166Gd    166Tb    166Dy    165Gd    165Tb
+166Tb    166Dy    166Ho    165Tb    165Dy
+167Eu	 167Gd    167Tb    166Eu    166Gd	
+167Gd    167Tb    167Dy    166Gd    166Tb	
+167Tb    167Dy    167Ho    166Tb    166Dy
+168Eu    168Gd    168Tb    167Eu    167Gd
+168Gd    168Tb    168Dy    167Gd    167Tb
+169Gd    169Tb    169Dy    168Gd    169Tb

@@ -1,0 +1,18 @@
+#!/bin/bash
+
+let j=1
+while IFS='' read -r line || [[ -n "$line" ]]; do
+	if [ $j -gt 1 ]; then
+		let i=1
+		for word in $line
+			do
+				if [ $i -le 1 ]; then
+    					echo $word
+				fi
+				let i=$i+1
+			done
+	fi
+	let j=$j+1
+    
+done < "$1"
+

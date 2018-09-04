@@ -1,0 +1,33 @@
+--------------------------------------------
+    Necessary Parameters for Analysis 
+--------------------------------------------
+
+-> Name of the parent Isotope [252Cf]
+Number of Nucley:  19
+166Eu
+167Eu
+168Eu
+162Sm
+163Sm
+164Sm
+165Sm
+159Pm
+160Pm
+161Pm
+162Pm
+163Pm
+164Pm
+157Nd
+160Nd
+161Nd
+156Pr
+157Pr
+159Pr
+-> Calculo Valor T1/2 [0: No    1: Si]
+1
+-> Calculo Valor Pn [0: No     1: Si]
+1
+-> Opciones Backgrownd [0: Pol0    1: Pol1]
+0
+-> Name Data File
+mergedBR2003_2023
